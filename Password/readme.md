@@ -20,12 +20,12 @@ Output
 For each testcase, print one integer — the number of different 4-digit sequences that meet the constraints.
 
 Example
-inputCopy
+input
 2
 8
 0 1 2 4 5 6 8 9
 1
 8
-outputCopy
+output
 6
 216
